@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     float [] history = new float[2];
     String [] direction = {"NONE","NONE"};
 
-    
+
 
     FileOutputStream outputStream;
 
